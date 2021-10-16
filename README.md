@@ -7,7 +7,7 @@ The purpose of this study is based on the available data, it was predicted after
 
 ## Dataset
 
-This breast cancer database was obtained from the **Faculty of Technology, Selcuk University, Turkey.** Dataset is downloaded from [archive.ics.uci.edu](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset) website. You can find the details of the dataset in that website. Dataset has **17 columns** and **13612 rows with the header**. If you publish resultswhen using this database, then please include the link in your acknowledgements.
+This breast cancer database was obtained from the **Faculty of Technology, Selcuk University, Turkey.** Dataset is downloaded from [archive.ics.uci.edu](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset) website. You can find the details of the dataset in that website. Dataset has **17 columns** and **13612 rows with the header**. Please include the link in your acknowledgements if you are going to share the results with database.
 
 > Seven different types of dry beans were used in this research, taking
 > into account the features such as form, shape, type, and structure by
